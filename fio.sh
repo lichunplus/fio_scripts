@@ -148,7 +148,6 @@ runtime=$SECS
 time_based
 thread=1
 group_reporting=1
-ioscheduler=noop
 ioengine=$IOENGINE
 end_fsync=1
 EOF
