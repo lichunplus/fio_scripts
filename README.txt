@@ -14,7 +14,7 @@
     5. 整个测试过程大约需要花费4个小时时间，请保持电源正常供电
     
 Example:
-    # sudo apt-get install r-base
+    # sudo apt-get install r-base or yum install R-core
     # ./fio.sh -f /dev/sdb -m 10240 -d -n myssd
     # tar czvf myssd.tar.gz output/
     
